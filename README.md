@@ -1,6 +1,11 @@
 # TodoList
 
 ```
+   npm create vite
+   > svelte-ts
+```
+
+```
   npm run dev
 ```
 
